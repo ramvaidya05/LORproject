@@ -31,6 +31,7 @@ How to Run?
 Please run the below commands in your terminal:
 
 pip install pandas numpy matplotlib flask scikit-learn
+
 python project_flask.py
 
 Open your browser and go to:
